@@ -1,0 +1,246 @@
+
+No : 1
+JUDUL : Apple
+LINK : https://www.apple.com/
+DESC : Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.
+
+No : 2
+JUDUL : Apple Inc. - Wikipedia
+LINK : https://en.wikipedia.org/wiki/Apple_Inc.
+DESC : Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Four of technology along with Amazon, Google, and Facebook.
+
+No : 3
+JUDUL : Apple (@Apple) | Twitter
+LINK : https://twitter.com/Apple
+DESC : Tweet with a location. You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications.
+
+No : 4
+JUDUL : @apple • Instagram photos and videos
+LINK : https://www.instagram.com/apple/
+DESC : 14.5m Followers, 6 Following, 416 Posts - See Instagram photos and videos from @apple
+
+No : 5
+JUDUL : AAPL Stock Price & News - Apple Inc. - Wall Street Journal
+LINK : https://quotes.wsj.com/AAPL
+DESC : Apple Inc. Stock - AAPL news, historical stock charts, analyst ratings, financials, and today's Apple Inc. stock price. DOW JONES, A NEWS CORP COMPANY News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.
+
+No : 6
+JUDUL : AAPL Stock Price - Apple Inc. Stock Quote (U.S.: Nasdaq ...
+LINK : https://www.marketwatch.com/investing/stock/aapl
+DESC : Apple Inc. Apple, Inc. engages in the design, manufacture, and marketing of mobile communication, media devices, personal computers, and portable digital music players.
+
+No : 7
+JUDUL : Contact - Official Apple Support
+LINK : https://support.apple.com/contact
+DESC : Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.
+
+No : 8
+JUDUL : Apple - YouTube
+LINK : https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw
+DESC : Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, A...
+
+No : 9
+JUDUL : Manage your Apple ID
+LINK : https://www.appleid.apple.com/
+DESC : Your Apple ID is the account you use for all Apple services.
+
+No : 10
+JUDUL : AAPL Stock | APPLE Stock Price Today | Markets Insider
+LINK : https://markets.businessinsider.com/stocks/aapl-stock?op=1
+DESC : Apple's initial public offering in 1980 raised more capital than any other IPO since Ford Motor Company in 1956. What's more, it created instant millionaires out of about 300 employees.
+
+No : 11
+JUDUL : United States - Jobs at Apple
+LINK : https://jobs.apple.com/en-us/search?location=united-states-USA
+DESC : Do you love teaching others and empowering them to be even better? As a Market Leader, you enjoy the challenges of developing individuals, building teams, and affecting growth across Apple Stores.
+
+No : 12
+JUDUL : Apple - Wikipedia
+LINK : https://en.wikipedia.org/wiki/Apple
+DESC : An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today.
+
+No : 13
+JUDUL : Apple - Apple Investor News
+LINK : https://investor.apple.com/investor-relations/default.aspx
+DESC : About Apple. The latest press, contact info, jobs, and more.
+
+No : 14
+JUDUL : Apple Support | Verizon Wireless
+LINK : https://www.verizonwireless.com/support/apple/
+DESC : Get support for any of your Apple devices, including step-by-step instructions, interactive simulators, videos and more.
+
+No : 15
+JUDUL : ara.apple.com - Apple Footer
+LINK : https://ara.apple.com/
+DESC : More ways to shop: Visit an Apple Store, call 1-800-MY-APPLE, or find a reseller.
+
+No : 16
+JUDUL : Manage your Apple ID - Apple
+LINK : https://appleid.apple.com/us/
+DESC : Your Apple ID is the account you use for all Apple services.
+
+No : 17
+JUDUL : ‎Apple Store on the App Store
+LINK : https://itunes.apple.com/us/app/apple-store/id375380948
+DESC : The Apple Store app provides a more personal way to shop for the latest Apple products and accessories. Get recommendations based on the Apple products you already own.
+
+No : 18
+JUDUL : Apple - Investor Relations - Stock Price
+LINK : https://investor.apple.com/investor-relations/stock-price/
+DESC : The stock information provided is for informational purposes only and is not intended for trading purposes. The stock information and charts are provided by Tickertech, a third party service, and Apple does not maintain or provide information directly to this service.
+
+No : 19
+JUDUL : Apple Developer
+LINK : https://developer.apple.com/
+DESC : Siri Shortcuts Offer shortcuts right when they're needed so users can quickly accomplish tasks from the lock screen, in Search, or from the Siri watch face.
+
+No : 20
+JUDUL : Apple - Home | Facebook
+LINK : https://www.facebook.com/apple
+DESC : Apple. 11M likes. Product/Service. Behind the Mac, people with passion are changing the world for the better.
+
+No : 21
+JUDUL : Apple - AAPL - Stock Price & News | The Motley Fool
+LINK : https://www.fool.com/quote/nasdaq/apple/aapl/
+DESC : Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium ...
+
+No : 22
+JUDUL : Apple | Technology | The Guardian
+LINK : https://www.theguardian.com/technology/apple
+DESC : Millions of us now have virtual assistants, in our homes and our pockets. Even children's toys are getting smart. But when we talk to them, who is listening?
+
+No : 23
+JUDUL : Apple (2018) - IMDb
+LINK : https://www.imdb.com/title/tt7245840/
+DESC : Directed by Jiankun Du. With Clayton Grimm, Jonathan Knight, Jonathon Knight, Danny Loecken. After finding out that there is only one apple left in the basket, a group of friend starts to expose their dark sides of human nature as the situation becomes dire.
+
+No : 24
+JUDUL : Apple - CNET
+LINK : https://www.cnet.com/apple/
+DESC : Apple Watch Series 4 vs. Galaxy Watch Active: What's the best smartwatch? Both are great fitness smartwatches, but the Galaxy Watch Active costs half the price of the Apple Watch. Does that make ...
+
+No : 25
+JUDUL : Apple - definition of apple by The Free Dictionary
+LINK : https://www.thefreedictionary.com/apple
+DESC : the apple of your eye favourite, pick, choice, dear, pet, darling, beloved, idol, fave (informal), blue-eyed boy (informal) Her only son was the apple of her eye ...
+
+No : 26
+JUDUL : ‎FATHER OF 4 by Offset on Apple Music
+LINK : https://itunes.apple.com/us/album/father-of-4/1453940914
+DESC : It once felt like a breach of social contract to pick your favorite Migo: The Atlanta trio were great because they were great together. In the wake of 2018's Culture II, though, each member of Migos has struck out on their own: Quavo led the charge with QUAVO HUNCHO, with Takeoff's The Last Rocket close behind.
+
+No : 27
+JUDUL : AAPL Stock Quote - Apple Inc. Common Stock Price - Nasdaq
+LINK : https://www.nasdaq.com/symbol/aapl
+DESC : AAPL Company Description. Apple (ticker symbol: AAPL) is one of the world's leading consumer electronics and personal computer companies.The Cupertino, California-based company was established in ...
+
+No : 1
+JUDUL : Leo Horoscope: Daily & Today | Horoscope.com
+LINK : https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=5
+DESC : Get your free Leo horoscope and find out what the planets have predicted for your day, week, month and year. Browse through your daily horoscope today!
+
+No : 2
+JUDUL : English ⇔ German Dictionary - leo.org: Start page
+LINK : https://dict.leo.org/german-english/
+DESC : LEO.org: Ihr Wörterbuch im Internet für English-German Übersetzungen, mit Forum, Vokabeltrainer und Sprachkursen. Im Web und als APP.
+
+No : 1
+JUDUL : Indonesia - Wikipedia
+LINK : https://en.wikipedia.org/wiki/Indonesia
+DESC : Indonesia (/ ˌ ɪ n d ə ˈ n iː ʒ ə / IN-də-NEE-zhə, /-ˈ n iː z i ə /-⁠ NEE-zee-ə; Indonesian: [ɪndoˈnesia]), officially the Republic of Indonesia (Indonesian: Republik Indonesia [reˈpublik ɪndoˈnesia]), is a country in Southeast Asia, between the Indian and Pacific oceans. It is the world's largest island country, with more than seventeen thousand islands, and at 1,904,569 ...
+
+No : 1
+JUDUL : Indonesia - Wikipedia
+LINK : https://en.wikipedia.org/wiki/Indonesia
+DESC : Indonesia (/ ˌ ɪ n d ə ˈ n iː ʒ ə / IN-də-NEE-zhə, /-ˈ n iː z i ə /-⁠ NEE-zee-ə; Indonesian: [ɪndoˈnesia]), officially the Republic of Indonesia (Indonesian: Republik Indonesia [reˈpublik ɪndoˈnesia]), is a country in Southeast Asia, between the Indian and Pacific oceans. It is the world's largest island country, with more than seventeen thousand islands, and at 1,904,569 ...
+
+No : 1
+JUDUL : Berita Terkini Pemilu Pilpres Pileg Indonesia 2019 - Pemilu ...
+LINK : https://www.detik.com/pemilu/
+DESC : Pemungutan suara Pemilu 2019 memang telah usai, beberapa hari lalu. Namun, di balik pelaksanaan pesta demokrasi itu menyisakan penggalan kisah menegangkan. Upaya rekonsiliasi pasca-pilpres antarelite politik tengah menjadi perbincangan. Hal itu bertujuan untuk mengurangi tensi konflik yang terjadi ...
+
+No : 2
+JUDUL : PEMILU 2019 | Portal Berita dan Informasi Terkini Seputar ...
+LINK : https://www.pemilu.org/
+DESC : PEMILU.ORG adalah media portal berita PEMILU 2019. Berisi artikel dan informasi terkini seputar pemilihan umum 2019. Seputar kampanye calon presiden (capres), partai untuk menyambut pesat demokarasi di tahun 2019.
+
+No : 3
+JUDUL : Pemilu 2019 - merdeka.com
+LINK : https://www.merdeka.com/tag/pemilu-2019/
+DESC : Pemilu 2019. KPU Tuban Catat 2 Petugas KPPS Meninggal, 13 Orang Sakit karena Kelelahan. Dua petugas yang meninggal dunia adalah Edi Supandi (48), anggota KPPS yang bertugas di TPS 024 di Kelurahan Gedongombo, Kecamatan Semanding, Kabupaten Tuban. Kemudian Winoto, Ketua KPPS yang bertugas di TPS ...
+
+No : 4
+JUDUL : Pemilu - YouTube
+LINK : https://www.youtube.com/watch?v=ipZHBfIxh38
+DESC : Siapa yang salah dan siapa yg benar. Lagu Cinta Untuk KPU "172 SUARA" [Bukan Rhoma Irama - Parodi Lagu 135 Juta] - Duration: 3:37. Beny Hidayat92 95,661 views. New
+
+No : 5
+JUDUL : What does pemilu mean in Indonesian? - WordHippo
+LINK : https://www.wordhippo.com/what-is/the-meaning-of/indonesian-word-c603c328aaa5762e623a69a62e3e9a23a9237dae.html
+DESC : Need to translate "pemilu" from Indonesian? Here's what it means.
+
+No : 6
+JUDUL : Pemilu - YouTube
+LINK : https://www.youtube.com/watch?v=dkgJzKxGfmo
+DESC : Ricky 11IPA2-- Created using PowToon -- Free sign up at http://www.powtoon.com/ . Make your own animated videos and animated presentations for free. PowToon ...
+
+No : 7
+JUDUL : Pemilihan umum - Wikipedia bahasa Indonesia, ensiklopedia bebas
+LINK : https://id.wikipedia.org/wiki/Pemilihan_umum
+DESC : Pemilihan umum (disingkat Pemilu) adalah proses memilih seseorang untuk mengisi jabatan politik tertentu. Jabatan tersebut beraneka-ragam, mulai dari jabatan presiden/eksekutif, wakil rakyat/legislatif di berbagai tingkat pemerintahan, sampai kepala desa.Pada konteks yang lebih luas, Pemilu dapat juga berarti proses mengisi jabatan-jabatan seperti ketua OSIS atau ketua kelas, walaupun untuk ...
+
+No : 8
+JUDUL : Polling Pemilu 2019: Siapakah Presiden Republik Indonesia ...
+LINK : http://www.pemilu.com/
+DESC : Polling Pemilu 2019 Siapakah Presiden Republik Indonesia 2019-2024 Pilihanmu adalah polling online Pilpres 2019 yang diselenggarakan oleh PEMILU.com
+
+No : 9
+JUDUL : PEMILU 2019 - Pemilihan Umum Pesta Demokrasi Rakyat Indonesia
+LINK : http://www.pemilu.com/pemilu-2019/
+DESC : Pemilu 2019 sebagai puncak pesta demokrasi 5 tahunan tersebut akan dilaksanakan pada tanggal 17 April 2019 yang akan memilih para anggota dewan legislatif DPR RI, DPD RI dan DPRD serta akan memilih presiden dan wakil presiden. Pemilu 2019 akan tetap memakai metode e-voting seperti pada Pemilu 2014.
+
+No : 10
+JUDUL : MAKALAH PEMILU | Brian Manullang - Academia.edu
+LINK : https://www.academia.edu/17562645/MAKALAH_PEMILU
+DESC : Bahkan pemilu 2004 merupakan pemilu pertama kali di Indonesia dimana setiap warga negara Indonesia yang mempunyai hak pilih, dapat memilih langsung presiden dan wakilnya selain pemilu untuk memilih anggota DPR, DPRD Tingkat I, dan DPRD tingkat II. Selain itu, sejak pemilu 2004, juga dilakukan pemilihan Dewan Perwakilan Daerah (DPD).
+
+No : 11
+JUDUL : PEMILU: Undang - pemilu-kpu-bawaslu.blogspot.com
+LINK : https://pemilu-kpu-bawaslu.blogspot.com/2013/06/undang-undang-pemilu.html
+DESC : Berikut ini adalah daftar peraturan perundang-undangan yang mengatur tentang penyelenggaraan Pemilu sejak pemilu tahun 1955, pemilu tahun 1971, pemilu tahun 1977, pemilu tahun 1982, pemilu tahun 1987, pemilu tahun 1992, pemilu tahun 1997, pemilu tahun 1999, pemilu tahun 2004 dan pemilu tahun 2009.
+
+No : 12
+JUDUL : PEMILU - MSN Indonesia | Berita
+LINK : https://www.msn.com/id-id/berita/pemilu
+DESC : Berita Terkini Seputar Pemilu 2019. Real Count KPU Minggu Hingga Pukul 00.30 WIB. Data dalam Sistem Informasi Penghitungan Suara (Situng) milik Komisi Pemilihan Umum (KPU) sudah mencapai 44,1 persen.
+
+No : 13
+JUDUL : Pemilihan umum di Indonesia - Wikipedia bahasa Indonesia ...
+LINK : https://id.wikipedia.org/wiki/Pemilihan_umum_di_Indonesia
+DESC : Pemilihan umum (pemilu) di Indonesia pada awalnya ditujukan untuk memilih anggota lembaga perwakilan, yaitu DPR, DPRD Provinsi, dan DPRD Kabupaten/Kota.Setelah amendemen keempat UUD 1945 pada 2002, pemilihan presiden dan wakil presiden (pilpres), yang semula dilakukan oleh MPR, disepakati untuk dilakukan langsung oleh rakyat dan dari rakyat sehingga pilpres pun dimasukkan ke dalam rangkaian ...
+
+No : 1
+JUDUL : JavaScript.com
+LINK : https://www.javascript.com/
+DESC : JavaScript.com is a resource for the JavaScript community. You will find resources and examples for JavaScript beginners as well as support for JavaScript experts ...
+
+No : 2
+JUDUL : JavaScript Tutorial
+LINK : https://www.w3schools.com/Js/
+DESC : JavaScript and Java are completely different languages, both in concept and design. JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997. ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.
+
+No : 3
+JUDUL : How to enable JavaScript in your browser and why
+LINK : https://enable-javascript.com/
+DESC : Instructions on how to enable (activate) JavaScript in web browser and why.
+
+No : 4
+JUDUL : How to enable JavaScript in Windows
+LINK : https://support.microsoft.com/en-us/help/3135465/how-to-enable-javascript-in-windows
+DESC : This article describes step for users to allow all Web sites in the Internet zone to run JavaScript in Internet Explorer, Chrome, and Firefox.
+
+No : 5
+JUDUL : JavaScript - Wikipedia
+LINK : https://en.wikipedia.org/wiki/JavaScript
+DESC : A JavaScript engine (also known as JavaScript interpreter or JavaScript implementation) is an interpreter that interprets JavaScript source code and executes the script accordingly. The first JavaScript engine was created by Brendan Eich at Netscape, for the Netscape Navigator Web browser.
+
